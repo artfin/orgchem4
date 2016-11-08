@@ -1,0 +1,15 @@
+##TITLE= Parameter file, XWIN-NMR		Version 3.6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##ORIGIN= UXNMR, Bruker Analytische Messtechnik GmbH
+##OWNER= root
+$$ Sat Oct  8 17:35:04 2016 MSK (UT+3h)  baos-1@Avance-400
+$$ /opt/xwinnmr/data/baos-1/nmr/RSF65-4/1/pdata/1/outd
+##$CURPLOT= <hpdj550c>
+##$CURPRIN= <$hpdj550c>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##$SURQMSG= 1
+##END=

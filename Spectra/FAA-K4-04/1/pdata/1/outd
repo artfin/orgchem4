@@ -1,0 +1,15 @@
+##TITLE= Parameter file, XWIN-NMR		Version 3.5
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##ORIGIN= UXNMR, Bruker Analytische Messtechnik GmbH
+##OWNER= root
+$$ Sat Oct 16 12:07:52 2004 Russian Daylight Time (UT+4h)  vatsouro@AVANCE400
+$$ D:/u/data/vatsouro/nmr/1H/1/pdata/1/outd
+##$CURPLOT= <HP Business Inkjet 2230/2280>
+##$CURPRIN= <$HP Business Inkjet 2230/2280>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##$SURQMSG= 1
+##END=
