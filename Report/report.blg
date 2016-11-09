@@ -1,6 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2015)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: report.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: report.aux
 The style file: unsrt.bst
 Database file #1: sample.bib
 Too many commas in name 1 of "Takeishi, Kenzo; Sugishima, Koudai; Sasaki, Kaori; Tanaka, Ken" for entry takeishi2004
@@ -17,45 +15,4 @@ Too many commas in name 1 of "Vatsadze, S.Z.; Sviridenkova, N.V.; Manaenkova, M.
 while executing---line 944 of file unsrt.bst
 Too many commas in name 1 of "Vatsadze, S.Z.; Sviridenkova, N.V.; Manaenkova, M.A.; Semashko, V.S.; Zyk, N.V." for entry vatsadze2005
 while executing---line 944 of file unsrt.bst
-You've used 4 entries,
-            1791 wiz_defined-function locations,
-            473 strings with 4356 characters,
-and the built_in function-call counts, 895 in all, are:
-= -- 89
-> -- 16
-< -- 0
-+ -- 8
-- -- 4
-* -- 59
-:= -- 146
-add.period$ -- 12
-call.type$ -- 4
-change.case$ -- 4
-chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 36
-empty$ -- 96
-format.name$ -- 4
-if$ -- 195
-int.to.chr$ -- 0
-int.to.str$ -- 4
-missing$ -- 4
-newline$ -- 23
-num.names$ -- 4
-pop$ -- 4
-preamble$ -- 1
-purify$ -- 0
-quote$ -- 0
-skip$ -- 12
-stack$ -- 0
-substring$ -- 101
-swap$ -- 4
-text.length$ -- 0
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 10
-width$ -- 5
-write$ -- 46
 (There were 7 error messages)
