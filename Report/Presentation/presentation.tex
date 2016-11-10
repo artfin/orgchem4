@@ -10,7 +10,7 @@
 %\usetheme{AnnArbor}
 %\usetheme{Antibes}
 %\usetheme{Bergen}
-%\usetheme{Berkeley}
+\usetheme{Berkeley}
 %\usetheme{Berlin}
 %\usetheme{Boadilla}
 %\usetheme{boxes}
@@ -24,7 +24,7 @@
 %\usetheme{Ilmenau}
 %\usetheme{JuanLesPins}
 %\usetheme{Luebeck}
-\usetheme{Madrid}
+%\usetheme{Madrid}
 %\usetheme{Malmoe}
 %\usetheme{Marburg}
 %\usetheme{Montpellier}
@@ -39,7 +39,7 @@
 
 \author{Финенко Артем}
 
-\institute[myuni] % (optional, but mostly needed)
+\institute[MSU] % (optional, but mostly needed)
 {
   МГУ им. М.В.Ломоносова \\
   Химический факультет
@@ -50,7 +50,6 @@
 \pgfdeclareimage[height=0.5cm]{university-logo}{../pictures/logo.jpg}
 \logo{\pgfuseimage{university-logo}}
 
-% Let's get started
 \begin{document}
 
 \begin{frame}
@@ -61,17 +60,53 @@
 \begin{block}{Схема реакции}
 \includegraphics[scale=0.5]{../pictures/1.png}
 \end{block}
+\begin{block}{}
+Выход: 4.8 г (44.75$\%$). \\
+Температура плавления: T$_{melt.}$ = 62 - 63$^{\circ}$С, T$_{melt.}^{lit.}$ = 60 - 62$^{\circ}$C \ [1] \\
+\end{block}
+\end{frame}
+
+\begin{frame}{ЯМР}
+\begin{block}{1H-NMR}
+\begin{center}
+  \makebox[\textwidth]{\includegraphics[width=0.8\paperwidth, height=5cm]{../pictures/FAA-K4-02.png}}
+\end{center}
+\end{block}
 \end{frame}
 
 \begin{frame}{Синтез 2-бензилиден-5-(4-метоксибензилиден)циклопентанона.}
 \begin{block}{Схема реакции}
-\includegraphics[scale=0.35]{../pictures/2.png}
+\includegraphics[scale=0.31]{../pictures/2.png}
+\end{block}
+\begin{block}{}
+Выход: 118 мг (40.69$\%$). \\
+Температура плавления: T$_{melt.}$ = 169-170$^{\circ}$С, T$_{melt.}^{lit.}$ = 170-171$^{\circ}$C \ [2] \\
+\end{block}
+\end{frame}
+
+\begin{frame}{ЯМР}
+\begin{block}{1H-NMR}
+\begin{center}
+  \makebox[\textwidth]{\includegraphics[width=0.8\paperwidth, height = 5cm]{../pictures/FAA-K4-08.png}}
+\end{center}
 \end{block}
 \end{frame}
 
 \begin{frame}{Синтез 2-бензилиден-5-(пиридин-3-илметилен)циклопентанона.}
 \begin{block}{Схема реакции}
-\includegraphics[scale=0.35]{../pictures/3.png}
+\includegraphics[scale=0.31]{../pictures/3.png}
+\end{block}
+\begin{block}{}
+Выход: 117 мг (44.83$\%$). \\
+Температура плавления: T$_{melt.}$ = 187-188$^{\circ}$С, T$_{melt.}^{lit.}$ = 198$^{\circ}$C. \ [3] \\
+\end{block}
+\end{frame}
+
+\begin{frame}{ЯМР}
+\begin{block}{1H-NMR}
+\begin{center}
+  \makebox[\textwidth]{\includegraphics[width=0.8\paperwidth, height = 5cm]{../pictures/FAA-K4-07.png}}
+\end{center}
 \end{block}
 \end{frame}
 
@@ -79,31 +114,44 @@
 \begin{block}{Схема реакции}
 \includegraphics[scale=0.5]{../pictures/4.png}
 \end{block}
+\begin{block}{}
+Выход: 2.32 г (34.89 $\%$). \\
+Температура плавления: T$_{melt.}$ = 181-184$^{\circ}$С, T$_{melt.}^{lit.}$ = 185$^{\circ}$C \ [4] \\
+\end{block}
 \end{frame}
 
 % All of the following is optional and typically not needed. 
 \appendix
 \section<presentation>*{\appendixname}
-\subsection<presentation>*{For Further Reading}
+\subsection<presentation>*{Bibliography}
 
 \begin{frame}[allowframebreaks]
-  \frametitle<presentation>{For Further Reading}
+  \frametitle<presentation>{Bibliography}
     
-  \begin{thebibliography}{10}
+  \begin{thebibliography}{6}
     
   \beamertemplatebookbibitems
-  % Start with overview books.
+    
+  \bibitem{takeishi2004}
+    K.~Takeishi, K.~Sugishima.
+    \newblock{\em Rhodium-catalyzed intramolecular hydroacylation of 5- and 6-alkynals: Convenient synthesis       of $\alpha$-alkylidenecycloalkanones and cycloalkenones}
+    \newblock Chemistry - A European Journal, 2004
 
-  \bibitem{Author1990}
-    A.~Author.
-    \newblock {\em Handbook of Everything}.
-    \newblock Some Press, 1990.
+  \bibitem{rosamilia2006}
+    A.~Rosamilia, M.~Giarusso, J.~Scott, C.~Strauss.
+    \newblock{\em  A direct, efficient synthesis of unsymmetrically substituted bis(arylidene)alkanones}
+    \newblock Green Chemistry, 2006   
+
+  \bibitem{vatsadze2005}
+    S.Z.~Vatsadze, N.~Sviridenkova, M.~Manaenkova, V.~Semashkov, N.~Zyk.
+    \newblock{\em Synthesis of unsymmetrical dienones with heteroatomic substituents}
+    \newblock Russian Chemical Bulletin, 2005
  
-  \bibitem{Someone2000}
-    S.~Someone.
-    \newblock On this and that.
-    \newblock {\em Journal of This and That}, 2(1):50--100,
-    2000.
+  \bibitem{dimmock2002}
+    J.~Dimmock $\textit{et al.}$.
+    \newblock{\em Cytotoxic 1,4-bis(2-oxo-1-cycloalkylmethylene)benzenes and related compounds}
+    \newblock European Journal of Medicinal Chemistry, 2002 
+ 
   \end{thebibliography}
 \end{frame}
 

@@ -9,19 +9,27 @@
 \headcommand {\beamer@framepages {4}{4}}
 \headcommand {\slideentry {0}{0}{5}{5/5}{}{0}}
 \headcommand {\beamer@framepages {5}{5}}
-\headcommand {\partentry {{\cyrillictext \CYRP \cyrr \cyri \cyrl \cyro \cyrzh \cyre \cyrn \cyri \cyre }}{1}}
-\headcommand {\beamer@partpages {1}{5}}
-\headcommand {\beamer@sectionpages {1}{5}}
-\headcommand {\beamer@subsectionpages {1}{5}}
-\headcommand {\beamer@appendixpages {6}}
-\headcommand {\sectionentry {1}{{\cyrillictext \CYRP \cyrr \cyri \cyrl \cyro \cyrzh \cyre \cyrn \cyri \cyre }}{6}{{\cyrillictext \CYRP \cyrr \cyri \cyrl \cyro \cyrzh \cyre \cyrn \cyri \cyre }}{1}}
-\headcommand {\beamer@sectionpages {6}{5}}
-\headcommand {\beamer@subsectionpages {6}{5}}
-\headcommand {\beamer@subsectionentry {1}{1}{1}{6}{For Further Reading}}\headcommand {\beamer@subsectionpages {6}{5}}
-\headcommand {\slideentry {1}{1}{1}{6/6}{For Further Reading}{1}}
+\headcommand {\slideentry {0}{0}{6}{6/6}{}{0}}
 \headcommand {\beamer@framepages {6}{6}}
-\headcommand {\beamer@partpages {6}{6}}
-\headcommand {\beamer@subsectionpages {6}{6}}
-\headcommand {\beamer@sectionpages {6}{6}}
-\headcommand {\beamer@documentpages {6}}
-\headcommand {\def \inserttotalframenumber {6}}
+\headcommand {\slideentry {0}{0}{7}{7/7}{}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\slideentry {0}{0}{8}{8/8}{}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\partentry {{\cyrillictext \CYRP \cyrr \cyri \cyrl \cyro \cyrzh \cyre \cyrn \cyri \cyre }}{1}}
+\headcommand {\beamer@partpages {1}{8}}
+\headcommand {\beamer@sectionpages {1}{8}}
+\headcommand {\beamer@subsectionpages {1}{8}}
+\headcommand {\beamer@appendixpages {9}}
+\headcommand {\sectionentry {1}{{\cyrillictext \CYRP \cyrr \cyri \cyrl \cyro \cyrzh \cyre \cyrn \cyri \cyre }}{9}{{\cyrillictext \CYRP \cyrr \cyri \cyrl \cyro \cyrzh \cyre \cyrn \cyri \cyre }}{1}}
+\headcommand {\beamer@sectionpages {9}{8}}
+\headcommand {\beamer@subsectionpages {9}{8}}
+\headcommand {\beamer@subsectionentry {1}{1}{1}{9}{Bibliography}}\headcommand {\beamer@subsectionpages {9}{8}}
+\headcommand {\slideentry {1}{1}{1}{9/9}{Bibliography}{1}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {1}{1}{1}{9/10}{Bibliography}{1}}
+\headcommand {\beamer@framepages {9}{10}}
+\headcommand {\beamer@partpages {9}{10}}
+\headcommand {\beamer@subsectionpages {9}{10}}
+\headcommand {\beamer@sectionpages {9}{10}}
+\headcommand {\beamer@documentpages {10}}
+\headcommand {\def \inserttotalframenumber {10}}
