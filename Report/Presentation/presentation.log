@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.12.5)  11 NOV 2016 03:46
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.12.5)  11 NOV 2016 13:45
 entering extended mode
 **presentation.tex
 (C:\Users\User\repos\OrgChem4\orgchem4\Report\Presentation\presentation.tex
@@ -1482,51 +1482,51 @@ Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
 Files/MiKTeX 2.9/fonts/map/dvips/sansmathaccent/sansmathaccent.map}
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\CYRF' on input line 45.
+(hyperref)                removing `\CYRF' on input line 46.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 45.
+(hyperref)                removing `\cyri' on input line 46.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrn' on input line 45.
+(hyperref)                removing `\cyrn' on input line 46.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 45.
+(hyperref)                removing `\cyre' on input line 46.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrn' on input line 45.
+(hyperref)                removing `\cyrn' on input line 46.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrk' on input line 45.
+(hyperref)                removing `\cyrk' on input line 46.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyro' on input line 45.
+(hyperref)                removing `\cyro' on input line 46.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\CYRA' on input line 45.
+(hyperref)                removing `\CYRA' on input line 46.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrr' on input line 45.
+(hyperref)                removing `\cyrr' on input line 46.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrt' on input line 45.
+(hyperref)                removing `\cyrt' on input line 46.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 45.
+(hyperref)                removing `\cyre' on input line 46.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrm' on input line 45.
+(hyperref)                removing `\cyrm' on input line 46.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
@@ -1538,23 +1538,23 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 )
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\CYRO' on input line 69.
+(hyperref)                removing `\CYRO' on input line 70.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrt' on input line 69.
+(hyperref)                removing `\cyrt' on input line 70.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrch' on input line 69.
+(hyperref)                removing `\cyrch' on input line 70.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 69.
+(hyperref)                removing `\cyre' on input line 70.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrt' on input line 69.
+(hyperref)                removing `\cyrt' on input line 70.
 
 (C:\Users\User\repos\OrgChem4\orgchem4\Report\Presentation\presentation.aux
 LaTeX Font Info:    Try loading font information for T2A+cmss on input line 22.
@@ -1563,34 +1563,34 @@ LaTeX Font Info:    Try loading font information for T2A+cmss on input line 22.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\cyrillic\t2acmss.fd"
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 69.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 69.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 70.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 70.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tipa\t3cmr.fd"
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 69.
-LaTeX Font Info:    Try loading font information for T2A+cmr on input line 69.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 70.
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 70.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    ... okay on input line 70.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1641,7 +1641,7 @@ LaTeX Font Info:    ... okay on input line 69.
 \everyMPtoPDFconversion=\toks47
 ) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box70
-Package hyperref Info: Link coloring OFF on input line 69.
+Package hyperref Info: Link coloring OFF on input line 70.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1651,70 +1651,70 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count316
 )
-LaTeX Info: Redefining \ref on input line 69.
-LaTeX Info: Redefining \pageref on input line 69.
-LaTeX Info: Redefining \nameref on input line 69.
+LaTeX Info: Redefining \ref on input line 70.
+LaTeX Info: Redefining \pageref on input line 70.
+LaTeX Info: Redefining \nameref on input line 70.
 
 (C:\Users\User\repos\OrgChem4\orgchem4\Report\Presentation\presentation.out)
 (C:\Users\User\repos\OrgChem4\orgchem4\Report\Presentation\presentation.out)
 \@outlinefile=\write5
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 69.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 70.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 69.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 70.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T3/cmr/m/n on input line 69.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 69.
+(Font)                  OT1/cmss/m/n --> T3/cmr/m/n on input line 70.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T3/cmss/bx/n on input line 69.
+(Font)                  OT1/cmr/bx/n --> T3/cmss/bx/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T3/cmss/bx/n on input line 69.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 69.
+(Font)                  OT1/cmr/bx/n --> T3/cmss/bx/n on input line 70.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T3/cmss/m/n on input line 69.
+(Font)                  OT1/cmss/m/n --> T3/cmss/m/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T3/cmss/m/n on input line 69.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 69.
+(Font)                  OT1/cmss/bx/n --> T3/cmss/m/n on input line 70.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T3/cmss/m/it on input line 69.
+(Font)                  OT1/cmr/m/it --> T3/cmss/m/it on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T3/cmss/m/it on input line 69.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 69.
+(Font)                  OT1/cmr/bx/it --> T3/cmss/m/it on input line 70.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T3/cmtt/m/n on input line 69.
+(Font)                  OT1/cmtt/m/n --> T3/cmtt/m/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T3/cmtt/m/n on input line 69.
+(Font)                  OT1/cmtt/m/n --> T3/cmtt/m/n on input line 70.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T3/cmss/m/n --> T3/cmss/bx/n on input line 69.
+(Font)                  T3/cmss/m/n --> T3/cmss/bx/n on input line 70.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T3/cmss/m/it --> T3/cmss/bx/it on input line 69.
+(Font)                  T3/cmss/m/it --> T3/cmss/bx/it on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T3/cmr/bx/n on input line 69.
+(Font)                  OT1/cmss/bx/n --> T3/cmr/bx/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T3/cmss/bx/n --> T3/cmss/bx/n on input line 69.
+(Font)                  T3/cmss/bx/n --> T3/cmss/bx/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T3/cmss/m/n --> T3/cmss/bx/n on input line 69.
+(Font)                  T3/cmss/m/n --> T3/cmss/bx/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T3/cmss/m/it --> T3/cmss/bx/it on input line 69.
+(Font)                  T3/cmss/m/it --> T3/cmss/bx/it on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T3/cmtt/m/n --> T3/cmtt/bx/n on input line 69.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 69.
+(Font)                  T3/cmtt/m/n --> T3/cmtt/bx/n on input line 70.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 70.
 LaTeX Font Info:    Encoding `T3' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 69
+(Font)              `pureletters' in the math version `normal' on input line 70
 .
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  T3/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 69
+(Font)                  T3/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 70
 .
 LaTeX Font Info:    Encoding `T3' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 69.
+(Font)              `pureletters' in the math version `bold' on input line 70.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T3/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 6
-9.
+(Font)                  T3/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 7
+0.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 69.
+ut line 70.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
 -basic-dictionary\translator-basic-dictionary-English.dict"
@@ -1740,17 +1740,17 @@ Dictionary: translator-numbers-dictionary, Language: English
 -theorem-dictionary\translator-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 69.
+LaTeX Info: Redefining \includegraphics on input line 70.
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `default' on line 69.
+. Activating mapping `default' on line 70.
 .................................................
 
 (C:\Users\User\repos\OrgChem4\orgchem4\Report\Presentation\presentation.nav)
 
 LaTeX Font Warning: Font shape `T2A/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 73.
+(Font)              size <5> substituted on input line 74.
 
 [1
 
@@ -1758,20 +1758,20 @@ LaTeX Font Warning: Font shape `T2A/cmss/m/n' in size <4> not available
 <../pictures/1.png, id=30, 460.72125pt x 152.82094pt>
 File: ../pictures/1.png Graphic file (type png)
  <use ../pictures/1.png>
-Package pdftex.def Info: ../pictures/1.png used on input line 83.
+Package pdftex.def Info: ../pictures/1.png used on input line 84.
 (pdftex.def)             Requested size: 230.36006pt x 76.41026pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 83.
+LaTeX Font Info:    Try loading font information for U+msa on input line 84.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 83.
+LaTeX Font Info:    Try loading font information for U+msb on input line 84.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 83.
+line 84.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd"
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -1784,7 +1784,7 @@ thkerncmss.
 File: ../pictures/FAA-K4-02.png Graphic file (type png)
 
 <use ../pictures/FAA-K4-02.png>
-Package pdftex.def Info: ../pictures/FAA-K4-02.png used on input line 91.
+Package pdftex.def Info: ../pictures/FAA-K4-02.png used on input line 92.
 (pdftex.def)             Requested size: 291.35022pt x 142.26198pt.
  [3
 
@@ -1792,20 +1792,20 @@ Package pdftex.def Info: ../pictures/FAA-K4-02.png used on input line 91.
 <../pictures/2.png, id=50, 890.32625pt x 250.9375pt>
 File: ../pictures/2.png Graphic file (type png)
  <use ../pictures/2.png>
-Package pdftex.def Info: ../pictures/2.png used on input line 101.
+Package pdftex.def Info: ../pictures/2.png used on input line 102.
 (pdftex.def)             Requested size: 275.99829pt x 77.78981pt.
 
 [4
 
  <C:/Users/User/repos/OrgChem4/orgchem4/Report/pictures/2.png>]
-<../pictures/FAA-K4-08.png, id=57, 1014.79124pt x 379.4175pt>
+<../pictures/FAA-K4-08.png, id=57, 1023.07219pt x 384.6872pt>
 File: ../pictures/FAA-K4-08.png Graphic file (type png)
 
 <use ../pictures/FAA-K4-08.png>
-Package pdftex.def Info: ../pictures/FAA-K4-08.png used on input line 109.
-(pdftex.def)             Requested size: 291.35536pt x 170.71892pt.
+Package pdftex.def Info: ../pictures/FAA-K4-08.png used on input line 110.
+(pdftex.def)             Requested size: 291.34444pt x 170.7186pt.
 
-Overfull \vbox (13.34268pt too high) detected at line 109
+Overfull \vbox (13.34236pt too high) detected at line 110
  []
 
 [5
@@ -1814,7 +1814,7 @@ Overfull \vbox (13.34268pt too high) detected at line 109
 <../pictures/3.png, id=65, 888.31876pt x 168.63pt>
 File: ../pictures/3.png Graphic file (type png)
  <use ../pictures/3.png>
-Package pdftex.def Info: ../pictures/3.png used on input line 119.
+Package pdftex.def Info: ../pictures/3.png used on input line 120.
 (pdftex.def)             Requested size: 275.37596pt x 52.27475pt.
 
 [6
@@ -1824,10 +1824,10 @@ Package pdftex.def Info: ../pictures/3.png used on input line 119.
 File: ../pictures/FAA-K4-07.png Graphic file (type png)
 
 <use ../pictures/FAA-K4-07.png>
-Package pdftex.def Info: ../pictures/FAA-K4-07.png used on input line 127.
+Package pdftex.def Info: ../pictures/FAA-K4-07.png used on input line 128.
 (pdftex.def)             Requested size: 291.34967pt x 170.71419pt.
 
-Overfull \vbox (13.33795pt too high) detected at line 127
+Overfull \vbox (13.33795pt too high) detected at line 128
  []
 
 [7
@@ -1836,7 +1836,7 @@ Overfull \vbox (13.33795pt too high) detected at line 127
 <../pictures/4.png, id=81, 392.96812pt x 113.67468pt>
 File: ../pictures/4.png Graphic file (type png)
  <use ../pictures/4.png>
-Package pdftex.def Info: ../pictures/4.png used on input line 137.
+Package pdftex.def Info: ../pictures/4.png used on input line 138.
 (pdftex.def)             Requested size: 235.78268pt x 68.20532pt.
 
 [8
@@ -1847,7 +1847,7 @@ File: ../pictures/CourseWorkSpectra.png Graphic file (type png)
 
 <use ../pictures/CourseWorkSpectra.png>
 Package pdftex.def Info: ../pictures/CourseWorkSpectra.png used on input line 1
-43.
+44.
 (pdftex.def)             Requested size: 291.36615pt x 170.71571pt.
  [9
 
@@ -1857,17 +1857,17 @@ Package pdftex.def Info: ../pictures/CourseWorkSpectra.png used on input line 1
 File: ../pictures/reac1.png Graphic file (type png)
 
 <use ../pictures/reac1.png>
-Package pdftex.def Info: ../pictures/reac1.png used on input line 162.
+Package pdftex.def Info: ../pictures/reac1.png used on input line 163.
 (pdftex.def)             Requested size: 239.7004pt x 33.96759pt.
 
 <../pictures/reac2.png, id=96, 858.95906pt x 137.7647pt>
 File: ../pictures/reac2.png Graphic file (type png)
 
 <use ../pictures/reac2.png>
-Package pdftex.def Info: ../pictures/reac2.png used on input line 162.
+Package pdftex.def Info: ../pictures/reac2.png used on input line 163.
 (pdftex.def)             Requested size: 274.87251pt x 44.08559pt.
 
-Overfull \hbox (2.53214pt too wide) in paragraph at lines 162--162
+Overfull \hbox (2.53214pt too wide) in paragraph at lines 163--163
  [] 
  []
 
@@ -1881,43 +1881,43 @@ er/repos/OrgChem4/orgchem4/Report/pictures/reac2.png>] [11
 ]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\CYRP' on input line 181.
+(hyperref)                removing `\CYRP' on input line 182.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrr' on input line 181.
+(hyperref)                removing `\cyrr' on input line 182.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 181.
+(hyperref)                removing `\cyri' on input line 182.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrl' on input line 181.
+(hyperref)                removing `\cyrl' on input line 182.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyro' on input line 181.
+(hyperref)                removing `\cyro' on input line 182.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrzh' on input line 181.
+(hyperref)                removing `\cyrzh' on input line 182.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 181.
+(hyperref)                removing `\cyre' on input line 182.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrn' on input line 181.
+(hyperref)                removing `\cyrn' on input line 182.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 181.
+(hyperref)                removing `\cyri' on input line 182.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 181.
+(hyperref)                removing `\cyre' on input line 182.
 
 [13
 
@@ -1929,7 +1929,7 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 File: ../pictures/FAA-K4-07C.png Graphic file (type png)
 
 <use ../pictures/FAA-K4-07C.png>
-Package pdftex.def Info: ../pictures/FAA-K4-07C.png used on input line 218.
+Package pdftex.def Info: ../pictures/FAA-K4-07C.png used on input line 219.
 (pdftex.def)             Requested size: 291.35457pt x 170.71892pt.
  [15
 
@@ -1938,7 +1938,7 @@ Package pdftex.def Info: ../pictures/FAA-K4-07C.png used on input line 218.
 File: ../pictures/FAA-K4-08C.png Graphic file (type png)
 
 <use ../pictures/FAA-K4-08C.png>
-Package pdftex.def Info: ../pictures/FAA-K4-08C.png used on input line 224.
+Package pdftex.def Info: ../pictures/FAA-K4-08C.png used on input line 225.
 (pdftex.def)             Requested size: 291.35109pt x 170.71713pt.
  [16
 
@@ -1946,12 +1946,12 @@ Package pdftex.def Info: ../pictures/FAA-K4-08C.png used on input line 224.
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 226.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 226.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 227.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 227.
 
 (C:\Users\User\repos\OrgChem4\orgchem4\Report\Presentation\presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 226.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 226.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 227.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 227.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: 20F36A1F8588DED3F4CDB93E12A0F0DA;34.
 
@@ -1959,12 +1959,12 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 226.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 227.
  ) 
 Here is how much of TeX's memory you used:
  27377 strings out of 493921
  530874 string characters out of 3147285
- 580475 words of memory out of 3000000
+ 580476 words of memory out of 3000000
  30096 multiletter control sequences out of 15000+200000
  23327 words of font info for 59 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -1983,7 +1983,7 @@ fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmsy8.pfb>
-Output written on presentation.pdf (16 pages, 367473 bytes).
+Output written on presentation.pdf (16 pages, 368732 bytes).
 PDF statistics:
  502 PDF objects out of 1000 (max. 8388607)
  40 named destinations out of 1000 (max. 500000)
