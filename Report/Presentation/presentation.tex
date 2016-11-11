@@ -7,6 +7,9 @@
 \usepackage{mhchem}
 \usepackage{amssymb, amsmath}
 
+\usepackage{fixltx2e}
+\usepackage{hyperref}
+
 %\usetheme{AnnArbor}
 %\usetheme{Antibes}
 %\usetheme{Bergen}
@@ -35,6 +38,8 @@
 %\usetheme{Szeged}
 %\usetheme{Warsaw}
 
+\pdfmapfile{+sansmathaccent.map}
+
 \title{Отчет}
 
 \author{Финенко Артем}
@@ -49,6 +54,17 @@
 
 \pgfdeclareimage[height=0.5cm]{university-logo}{../pictures/logo.jpg}
 \logo{\pgfuseimage{university-logo}}
+
+% defining newcolumntype
+\usepackage{array}
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+
+\newcommand\Fontvi{\fontsize{6}{7.2}\selectfont}
+
+\beamertemplatenavigationsymbolsempty
+
+\setbeamerfont{page number in head/foot}{size=\large}
+\setbeamertemplate{footline}[frame number]
 
 \begin{document}
 
@@ -87,7 +103,7 @@
 \begin{frame}{ЯМР}
 \begin{block}{1H-NMR}
 \begin{center}
-  \makebox[\textwidth]{\includegraphics[width=0.8\paperwidth, height = 5cm]{../pictures/FAA-K4-08.png}}
+  \makebox[\textwidth]{\includegraphics[width=0.8\paperwidth, height = 6cm]{../pictures/FAA-K4-08.png}}
 \end{center}
 \end{block}
 \end{frame}
@@ -105,19 +121,59 @@
 \begin{frame}{ЯМР}
 \begin{block}{1H-NMR}
 \begin{center}
-  \makebox[\textwidth]{\includegraphics[width=0.8\paperwidth, height = 5cm]{../pictures/FAA-K4-07.png}}
+  \makebox[\textwidth]{\includegraphics[width=0.8\paperwidth, height = 6cm]{../pictures/FAA-K4-07.png}}
 \end{center}
 \end{block}
 \end{frame}
 
 \begin{frame}{Синтез бензил-1,4-диил-диметилидендициклопентанона.}
 \begin{block}{Схема реакции}
-\includegraphics[scale=0.5]{../pictures/4.png}
+\includegraphics[scale=0.6]{../pictures/4.png}
 \end{block}
-\begin{block}{}
+\begin{block}{1}
 Выход: 2.32 г (34.89 $\%$). \\
 Температура плавления: T$_{melt.}$ = 181-184$^{\circ}$С, T$_{melt.}^{lit.}$ = 185$^{\circ}$C \ [4] \\
 \end{block}
+\end{frame}
+
+\begin{frame}{Синтез}
+\begin{block}{1H-NMR}
+ \makebox[\textwidth]{\includegraphics[width=0.8\paperwidth, height = 6cm]{../pictures/CourseWorkSpectra.png}}
+\end{block}
+\end{frame}
+
+\begin{frame}{2}
+\Fontvi
+\begin{block}{Пробные реакции}
+\includegraphics[scale=0.32]{../pictures/reac1.png} \\
+\includegraphics[scale=0.32]{../pictures/reac2.png}
+\end{block}
+
+\begin{table}
+\begin{tabular}{P{3.5cm} | P{2.5cm} | P{3cm} |}
+Реагент & Растворитель & Щелочность \\
+\hline \hline
+4-(диэтиламино)бензальдегид & H$\textsubscript{2}$O : EtOH (1 : 1) & мин. кол-во KOH \\ \hline
+4-пиридинкарбальдегид & H$\textsubscript{2}$O : EtOH (1 : 3) &  KOH, 10 eq \\ \hline
+4-(диэтиламино)бензальдегид & CH$\textsubscript{3}$CN & Cs$\textsubscript{2}$CO$\textsubscript{3}$, 3 eq \\ \hline
+4-(диэтиламино)бензальдегид & ДМФА абс. & Cs$\textsubscript{2}$CO$\textsubscript{3}$, 1 eq \\ \hline
+\end{tabular}
+\end{table}
+\end{frame}
+
+\begin{frame}
+\begin{block}{Выводы.}
+\begin{itemize}
+\item Проведен синтез модельных несимметричных арилиденов; получены чистые, индивидуальные вещества
+\item Физико-химические свойства сопоставимы с литературными
+\item Получены спектры 1H, 13C исследуемых арилиденов
+\end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}{}
+  \centering \Large
+  \emph{Спасибо за внимание!}
 \end{frame}
 
 % All of the following is optional and typically not needed. 
@@ -153,6 +209,18 @@
     \newblock European Journal of Medicinal Chemistry, 2002 
  
   \end{thebibliography}
+\end{frame}
+
+\begin{frame}{Спектр 13C}
+\begin{block}{13C-NMR}
+ \makebox[\textwidth]{\includegraphics[width=0.8\paperwidth, height = 6cm]{../pictures/FAA-K4-07C.png}}
+\end{block}
+\end{frame}
+
+\begin{frame}{Спектр 13C}
+\begin{block}{13С-NMR}
+ \makebox[\textwidth]{\includegraphics[width=0.8\paperwidth, height = 6cm]{../pictures/FAA-K4-08C.png}}
+\end{block}
 \end{frame}
 
 \end{document}
