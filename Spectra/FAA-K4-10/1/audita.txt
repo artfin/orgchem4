@@ -1,0 +1,16 @@
+##TITLE= Audit trail, XWIN-NMR		Version 3.6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= baos-1
+$$ /opt/xwinnmr/data/baos-1/nmr/FAA-K4-10/1/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2016-11-17 10:40:51.54 +0300>,<baos-1>,<Avance-400>,
+      <created by zg, POWCHK disabled, PULCHK disabled
+       configuration hash MD5:
+       94 72 F0 49 FB 28 CB B2 6C 56 FD C4 8E B3 8F 96
+       data hash MD5: 32050
+       3F ED 75 8C CB FC 04 CB 98 0A 98 4C 6F B3 06 23>)
+##END=
+
+$$ hash MD5
+$$ 94 A4 BE D1 D1 16 81 59 E4 B0 27 A2 DA B3 2C 7E
