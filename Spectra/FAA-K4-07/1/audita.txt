@@ -4,13 +4,13 @@
 ##OWNER= baos-1
 $$ /opt/xwinnmr/data/baos-1/nmr/FAA-K4-07/1/audita.txt
 ##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
-(   1,<2016-11-08 11:07:14.80 +0300>,<baos-1>,<Avance-400>,
+(   1,<2016-11-10 10:39:25.27 +0300>,<baos-1>,<Avance-400>,
       <created by zg, POWCHK disabled, PULCHK disabled
        configuration hash MD5:
        94 72 F0 49 FB 28 CB B2 6C 56 FD C4 8E B3 8F 96
        data hash MD5: 32050
-       A4 C4 8B 4F ED 5D 04 5D DD 05 7C A4 33 0D BE BE>)
+       42 50 F4 D6 E2 AA B8 0C FE B7 06 6D E5 AE B7 FB>)
 ##END=
 
 $$ hash MD5
-$$ 15 F7 CD 47 EF 12 38 92 EC 97 B2 59 37 A8 7A 5A
+$$ C5 8C 0D 02 99 8C B3 09 F3 BD 98 74 9D E3 0D 6C

@@ -3,7 +3,7 @@
 ##DATATYPE= Parameter Values
 ##ORIGIN= UXNMR, Bruker Analytische Messtechnik GmbH
 ##OWNER= root
-$$ Tue Nov  8 11:07:45 2016 MSK (UT+3h)  baos-1@Avance-400
+$$ Thu Nov 10 10:39:35 2016 MSK (UT+3h)  baos-1@Avance-400
 $$ /opt/xwinnmr/data/baos-1/nmr/FAA-K4-07/1/pdata/1/procs
 ##$ABSF1= 15.99667
 ##$ABSF2= -4.028873
@@ -37,7 +37,7 @@ $$ /opt/xwinnmr/data/baos-1/nmr/FAA-K4-07/1/pdata/1/procs
 ##$INTBC= 1
 ##$INTSCL= 1
 ##$ISEN= 128
-##$LB= 0
+##$LB= 0.3
 ##$LEV0= 0
 ##$LPBIN= 0
 ##$MAXI= 10000
@@ -46,7 +46,7 @@ $$ /opt/xwinnmr/data/baos-1/nmr/FAA-K4-07/1/pdata/1/procs
 ##$ME_mod= 0
 ##$MI= 0
 ##$NCOEF= 0
-##$NC_proc= -6
+##$NC_proc= -8
 ##$NLEV= 6
 ##$NOISF1= 0
 ##$NOISF2= 0
@@ -56,8 +56,8 @@ $$ /opt/xwinnmr/data/baos-1/nmr/FAA-K4-07/1/pdata/1/procs
 ##$NZP= 0
 ##$OFFSET= 15.99667
 ##$PC= 1
-##$PHC0= 93.13487
-##$PHC1= -17.08631
+##$PHC0= 1035.909
+##$PHC1= -8.364029
 ##$PH_mod= 1
 ##$PKNL= yes
 ##$PPARMOD= 0
@@ -90,8 +90,8 @@ $$ /opt/xwinnmr/data/baos-1/nmr/FAA-K4-07/1/pdata/1/procs
 ##$USERP3= <user>
 ##$USERP4= <user>
 ##$USERP5= <user>
-##$WDW= 0
+##$WDW= 1
 ##$XDIM= 8192
-##$YMAX_p= 390049973
-##$YMIN_p= -1384653
+##$YMAX_p= 551247888
+##$YMIN_p= -645932
 ##END=

@@ -3,7 +3,7 @@
 ##DATATYPE= Parameter Values
 ##ORIGIN= UXNMR, Bruker Analytische Messtechnik GmbH
 ##OWNER= root
-$$ Tue Nov  8 11:09:46 2016 MSK (UT+3h)  baos-1@Avance-400
+$$ Thu Nov 10 10:51:07 2016 MSK (UT+3h)  baos-1@Avance-400
 $$ /opt/xwinnmr/data/baos-1/nmr/FAA-K4-08/1/acqus
 ##$AMP= (0..31)
 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
@@ -39,7 +39,7 @@ $$ /opt/xwinnmr/data/baos-1/nmr/FAA-K4-08/1/acqus
 ##$CPDPRGT= <>
 ##$D= (0..31)
 0 0.45 0 0 0 0 0 0 0 0.06 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-##$DATE= 1478592583
+##$DATE= 1478764263
 ##$DBL= (0..7)
 120 120 120 120 120 120 120 120 
 ##$DBP= (0..7)
@@ -175,9 +175,9 @@ $$ /opt/xwinnmr/data/baos-1/nmr/FAA-K4-08/1/acqus
 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
 ##$LFILTER= 100
 ##$LGAIN= -15
-##$LOCKED= yes
+##$LOCKED= no
 ##$LOCKFLD= 5576
-##$LOCKGN= 123.099998474121
+##$LOCKGN= 121.199996948242
 ##$LOCKPOW= -25
 ##$LOCKPPM= 7.24000024795532
 ##$LOCNUC= <2H>
@@ -188,7 +188,7 @@ $$ /opt/xwinnmr/data/baos-1/nmr/FAA-K4-08/1/acqus
 ##$MASRLST= <masrlst>
 ##$NBL= 1
 ##$NC= -2
-##$NS= 8
+##$NS= 2
 ##$NUC1= <1H>
 ##$NUC2= <off>
 ##$NUC3= <off>
@@ -241,7 +241,7 @@ $$ /opt/xwinnmr/data/baos-1/nmr/FAA-K4-08/1/acqus
 ##$RECCHAN= (0..15)
 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
 ##$RECPH= 0
-##$RG= 512
+##$RG= 181
 ##$RO= 0
 ##$ROUTWD1= (0..23)
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 
@@ -364,8 +364,8 @@ $$ /opt/xwinnmr/data/baos-1/nmr/FAA-K4-08/1/acqus
 0 0 0 0 
 ##$XL= 0
 ##$YL= 0
-##$YMAX_a= 226114
-##$YMIN_a= -152689
+##$YMAX_a= 89125
+##$YMIN_a= -79136
 ##$ZGOPTNS= <>
 ##$ZL1= 120
 ##$ZL2= 120

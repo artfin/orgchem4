@@ -3,7 +3,7 @@
 ##DATATYPE= Parameter Values
 ##ORIGIN= UXNMR, Bruker Analytische Messtechnik GmbH
 ##OWNER= root
-$$ Tue Nov  8 11:10:07 2016 MSK (UT+3h)  baos-1@Avance-400
+$$ Thu Nov 10 10:51:15 2016 MSK (UT+3h)  baos-1@Avance-400
 $$ /opt/xwinnmr/data/baos-1/nmr/FAA-K4-08/1/pdata/1/procs
 ##$ABSF1= 15.99667
 ##$ABSF2= -4.028873
@@ -56,8 +56,8 @@ $$ /opt/xwinnmr/data/baos-1/nmr/FAA-K4-08/1/pdata/1/procs
 ##$NZP= 0
 ##$OFFSET= 15.99667
 ##$PC= 1
-##$PHC0= 78.17139
-##$PHC1= 7.309214
+##$PHC0= 1034.821
+##$PHC1= -15.081
 ##$PH_mod= 1
 ##$PKNL= yes
 ##$PPARMOD= 0
@@ -92,6 +92,6 @@ $$ /opt/xwinnmr/data/baos-1/nmr/FAA-K4-08/1/pdata/1/procs
 ##$USERP5= <user>
 ##$WDW= 1
 ##$XDIM= 8192
-##$YMAX_p= 514959540
-##$YMIN_p= -881982
+##$YMAX_p= 313360299
+##$YMIN_p= -204370
 ##END=

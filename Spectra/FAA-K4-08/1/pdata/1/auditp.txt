@@ -4,30 +4,30 @@
 ##OWNER= baos-1
 $$ /opt/xwinnmr/data/baos-1/nmr/FAA-K4-08/1/pdata/1/auditp.txt
 ##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
-(   1,<2016-11-08 11:09:45.35 +0300>,<baos-1>,<Avance-400>,
+(   1,<2016-11-10 10:51:05.71 +0300>,<baos-1>,<Avance-400>,
       <created by zg, POWCHK disabled, PULCHK disabled
        configuration hash MD5:
        94 72 F0 49 FB 28 CB B2 6C 56 FD C4 8E B3 8F 96
        data hash MD5: 32050
-       57 BC 64 05 FE 2A 86 6B C4 2F E3 AA 3D 5F DE D6>)
-(   2,<2016-11-08 11:09:57.78 +0300>,<baos-1>,<Avance-400>,
+       55 AC 4E A9 BE 6C 74 CA EE CD 99 2B EE 5A 32 0D>)
+(   2,<2016-11-10 10:51:10.91 +0300>,<baos-1>,<Avance-400>,
       <Start of raw data processing
-       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 93.13487 PHC1 = -17.08631 SI = 64K 
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 1035.909 PHC1 = -8.364029 SI = 64K 
        data hash MD5: 64K
-       4D 0A 4E 86 A2 27 57 16 52 EA F9 E1 94 38 A6 06>)
-(   3,<2016-11-08 11:10:00.68 +0300>,<baos-1>,<Avance-400>,
+       35 05 23 B0 77 6B 32 24 0C 32 9B 36 E1 9B BC D7>)
+(   3,<2016-11-10 10:51:12.38 +0300>,<baos-1>,<Avance-400>,
       <apk 
        data hash MD5: 64K
-       97 CB 67 1B 69 86 1D 1B D0 FE 93 A4 A4 2F 9F 3C>)
-(   4,<2016-11-08 11:10:01.83 +0300>,<baos-1>,<Avance-400>,
+       9D 21 BC A4 26 F5 05 D4 32 1E FF C3 02 C3 2E 7C>)
+(   4,<2016-11-10 10:51:12.78 +0300>,<baos-1>,<Avance-400>,
       <abs ABSG = 5 
        data hash MD5: 64K
-       5D 01 39 A6 E1 82 BB 28 10 12 E8 A1 BD 31 12 75>)
-(   5,<2016-11-08 11:10:07.98 +0300>,<baos-1>,<Avance-400>,
+       17 24 18 EC F4 1C 2D 46 83 AD 0D 28 03 41 49 95>)
+(   5,<2016-11-10 10:51:15.66 +0300>,<baos-1>,<Avance-400>,
       <pk PHC0 = 0 PHC1 = 0 
        data hash MD5: 64K
-       5D 01 39 A6 E1 82 BB 28 10 12 E8 A1 BD 31 12 75>)
+       17 24 18 EC F4 1C 2D 46 83 AD 0D 28 03 41 49 95>)
 ##END=
 
 $$ hash MD5
-$$ ED A5 EC 77 C2 E3 02 2E 58 E0 6E F4 94 C2 AF 0B
+$$ 88 09 07 13 A0 6A 90 3E 8F 31 F3 A4 DA 8C 17 EC
