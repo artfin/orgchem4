@@ -1,0 +1,33 @@
+##TITLE= Audit trail, XWIN-NMR		Version 3.6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= baos-1
+$$ /opt/xwinnmr/data/baos-1/nmr/FAA-K4-15/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2016-11-26 17:18:11.36 +0300>,<baos-1>,<Avance-400>,
+      <created by zg, POWCHK disabled, PULCHK disabled
+       configuration hash MD5:
+       94 72 F0 49 FB 28 CB B2 6C 56 FD C4 8E B3 8F 96
+       data hash MD5: 32050
+       E6 82 9A D2 4E ED B7 0A 37 CC 0C 27 38 2F F4 EE>)
+(   2,<2016-11-26 17:18:37.88 +0300>,<baos-1>,<Avance-400>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 827.7778 PHC1 = -17.68906 SI = 64K 
+       data hash MD5: 64K
+       DA D2 16 28 E2 78 A6 55 03 B7 75 69 FC EB 28 5C>)
+(   3,<2016-11-26 17:18:39.71 +0300>,<baos-1>,<Avance-400>,
+      <apk 
+       data hash MD5: 64K
+       54 BD 8D 6B 66 FA F7 C7 AB 0A BA 8D 85 41 BC 8D>)
+(   4,<2016-11-26 17:18:41.59 +0300>,<baos-1>,<Avance-400>,
+      <abs ABSG = 5 
+       data hash MD5: 64K
+       EC A3 96 ED BF D4 96 B3 30 38 F1 8A A4 B0 7B 0F>)
+(   5,<2016-11-26 17:18:45.65 +0300>,<baos-1>,<Avance-400>,
+      <pk PHC0 = 0 PHC1 = 0 
+       data hash MD5: 64K
+       EC A3 96 ED BF D4 96 B3 30 38 F1 8A A4 B0 7B 0F>)
+##END=
+
+$$ hash MD5
+$$ FC DA 5B 7A CC F0 BA FC C9 A3 B7 F1 F5 26 FA 2A
